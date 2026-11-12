@@ -1,0 +1,712 @@
+[
+  {
+    "id": "pc_0001",
+    "entry_type": "cash_in",
+    "amount": 1458,
+    "entry_date": "2026-01-14",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_in|2026-01-14|145800|"
+  },
+  {
+    "id": "pc_0002",
+    "entry_type": "cash_in",
+    "amount": 2000,
+    "entry_date": "2026-02-17",
+    "description": "Petty cash",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_in|2026-02-17|200000|petty cash"
+  },
+  {
+    "id": "pc_0003",
+    "entry_type": "cash_in",
+    "amount": 652,
+    "entry_date": "2026-03-03",
+    "description": "Reinbursement for Domain Payment",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_in|2026-03-03|65200|reinbursement for domain payment"
+  },
+  {
+    "id": "pc_0004",
+    "entry_type": "cash_in",
+    "amount": 14.52,
+    "entry_date": "2026-04-25",
+    "description": "MTN Interest",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_in|2026-04-25|1452|mtn interest"
+  },
+  {
+    "id": "pc_0005",
+    "entry_type": "cash_in",
+    "amount": 2500,
+    "entry_date": "2026-05-06",
+    "description": "Imprest",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_in|2026-05-06|250000|imprest"
+  },
+  {
+    "id": "pc_0006",
+    "entry_type": "cash_in",
+    "amount": 90.45,
+    "entry_date": "2026-05-20",
+    "description": "Reimbursement",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_in|2026-05-20|9045|reimbursement"
+  },
+  {
+    "id": "pc_0007",
+    "entry_type": "cash_in",
+    "amount": 60.6,
+    "entry_date": "2026-05-27",
+    "description": "Reimbursement",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_in|2026-05-27|6060|reimbursement"
+  },
+  {
+    "id": "pc_0008",
+    "entry_type": "cash_in",
+    "amount": 47.09,
+    "entry_date": "2026-05-29",
+    "description": "Food delivery to e-Com Reimbursement",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_in|2026-05-29|4709|food delivery to e-com reimbursement"
+  },
+  {
+    "id": "pc_0009",
+    "entry_type": "cash_in",
+    "amount": 13.97,
+    "entry_date": "2026-01-24",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_in|2026-01-24|1397|"
+  },
+  {
+    "id": "pc_0010",
+    "entry_type": "cash_out",
+    "amount": 138.02,
+    "entry_date": "2026-01-08",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-01-08|13802|"
+  },
+  {
+    "id": "pc_0011",
+    "entry_type": "cash_out",
+    "amount": 61.45,
+    "entry_date": "2026-02-09",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-02-09|6145|"
+  },
+  {
+    "id": "pc_0012",
+    "entry_type": "cash_out",
+    "amount": 89.14,
+    "entry_date": "2026-03-04",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-03-04|8914|"
+  },
+  {
+    "id": "pc_0013",
+    "entry_type": "cash_out",
+    "amount": 201.5,
+    "entry_date": "2026-04-02",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-04-02|20150|"
+  },
+  {
+    "id": "pc_0014",
+    "entry_type": "cash_out",
+    "amount": 2276.37,
+    "entry_date": "2026-05-06",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-05-06|227637|"
+  },
+  {
+    "id": "pc_0015",
+    "entry_type": "cash_out",
+    "amount": 35.26,
+    "entry_date": "2026-06-01",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-06-01|3526|"
+  },
+  {
+    "id": "pc_0016",
+    "entry_type": "cash_out",
+    "amount": 115.86,
+    "entry_date": "2026-01-12",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-01-12|11586|"
+  },
+  {
+    "id": "pc_0017",
+    "entry_type": "cash_out",
+    "amount": 486,
+    "entry_date": "2026-02-10",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-02-10|48600|"
+  },
+  {
+    "id": "pc_0018",
+    "entry_type": "cash_out",
+    "amount": 100.75,
+    "entry_date": "2026-03-07",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-03-07|10075|"
+  },
+  {
+    "id": "pc_0019",
+    "entry_type": "cash_out",
+    "amount": 51.44,
+    "entry_date": "2026-04-07",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-04-07|5144|"
+  },
+  {
+    "id": "pc_0020",
+    "entry_type": "cash_out",
+    "amount": 356.21,
+    "entry_date": "2026-05-07",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-05-07|35621|"
+  },
+  {
+    "id": "pc_0021",
+    "entry_type": "cash_out",
+    "amount": 48.36,
+    "entry_date": "2026-06-03",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-06-03|4836|"
+  },
+  {
+    "id": "pc_0022",
+    "entry_type": "cash_out",
+    "amount": 3486.75,
+    "entry_date": "2026-01-14",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-01-14|348675|"
+  },
+  {
+    "id": "pc_0023",
+    "entry_type": "cash_out",
+    "amount": 83.1,
+    "entry_date": "2026-02-16",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-02-16|8310|"
+  },
+  {
+    "id": "pc_0024",
+    "entry_type": "cash_out",
+    "amount": 126.44,
+    "entry_date": "2026-03-09",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-03-09|12644|"
+  },
+  {
+    "id": "pc_0025",
+    "entry_type": "cash_out",
+    "amount": 57.42,
+    "entry_date": "2026-04-09",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-04-09|5742|"
+  },
+  {
+    "id": "pc_0026",
+    "entry_type": "cash_out",
+    "amount": 175.04,
+    "entry_date": "2026-05-08",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-05-08|17504|"
+  },
+  {
+    "id": "pc_0027",
+    "entry_type": "cash_out",
+    "amount": 121.89,
+    "entry_date": "2026-06-04",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-06-04|12189|"
+  },
+  {
+    "id": "pc_0028",
+    "entry_type": "cash_out",
+    "amount": 453.37,
+    "entry_date": "2026-01-14",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-01-14|45337|"
+  },
+  {
+    "id": "pc_0029",
+    "entry_type": "cash_out",
+    "amount": 179.33,
+    "entry_date": "2026-02-17",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-02-17|17933|"
+  },
+  {
+    "id": "pc_0030",
+    "entry_type": "cash_out",
+    "amount": 49.36,
+    "entry_date": "2026-03-10",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-03-10|4936|"
+  },
+  {
+    "id": "pc_0031",
+    "entry_type": "cash_out",
+    "amount": 216,
+    "entry_date": "2026-04-10",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-04-10|21600|"
+  },
+  {
+    "id": "pc_0032",
+    "entry_type": "cash_out",
+    "amount": 16.12,
+    "entry_date": "2026-05-12",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-05-12|1612|"
+  },
+  {
+    "id": "pc_0033",
+    "entry_type": "cash_out",
+    "amount": 361,
+    "entry_date": "2026-06-08",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-06-08|36100|"
+  },
+  {
+    "id": "pc_0034",
+    "entry_type": "cash_out",
+    "amount": 30.75,
+    "entry_date": "2026-01-16",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-01-16|3075|"
+  },
+  {
+    "id": "pc_0035",
+    "entry_type": "cash_out",
+    "amount": 66.49,
+    "entry_date": "2026-02-19",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-02-19|6649|"
+  },
+  {
+    "id": "pc_0036",
+    "entry_type": "cash_out",
+    "amount": 210.56,
+    "entry_date": "2026-03-11",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-03-11|21056|"
+  },
+  {
+    "id": "pc_0037",
+    "entry_type": "cash_out",
+    "amount": 53.48,
+    "entry_date": "2026-04-13",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-04-13|5348|"
+  },
+  {
+    "id": "pc_0038",
+    "entry_type": "cash_out",
+    "amount": 16.12,
+    "entry_date": "2026-05-13",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-05-13|1612|"
+  },
+  {
+    "id": "pc_0039",
+    "entry_type": "cash_out",
+    "amount": 414.52,
+    "entry_date": "2026-06-09",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-06-09|41452|"
+  },
+  {
+    "id": "pc_0040",
+    "entry_type": "cash_out",
+    "amount": 333.63,
+    "entry_date": "2026-01-26",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-01-26|33363|"
+  },
+  {
+    "id": "pc_0041",
+    "entry_type": "cash_out",
+    "amount": 152.12,
+    "entry_date": "2026-02-23",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-02-23|15212|"
+  },
+  {
+    "id": "pc_0042",
+    "entry_type": "cash_out",
+    "amount": 2015,
+    "entry_date": "2026-03-25",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-03-25|201500|"
+  },
+  {
+    "id": "pc_0043",
+    "entry_type": "cash_out",
+    "amount": 677.22,
+    "entry_date": "2026-04-23",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-04-23|67722|"
+  },
+  {
+    "id": "pc_0044",
+    "entry_type": "cash_out",
+    "amount": 35.76,
+    "entry_date": "2026-05-14",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-05-14|3576|"
+  },
+  {
+    "id": "pc_0045",
+    "entry_type": "cash_out",
+    "amount": 53,
+    "entry_date": "2026-06-11",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-06-11|5300|"
+  },
+  {
+    "id": "pc_0046",
+    "entry_type": "cash_out",
+    "amount": 115.34,
+    "entry_date": "2026-01-27",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-01-27|11534|"
+  },
+  {
+    "id": "pc_0047",
+    "entry_type": "cash_out",
+    "amount": 638.59,
+    "entry_date": "2026-02-24",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-02-24|63859|"
+  },
+  {
+    "id": "pc_0048",
+    "entry_type": "cash_out",
+    "amount": 486,
+    "entry_date": "2026-03-26",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-03-26|48600|"
+  },
+  {
+    "id": "pc_0049",
+    "entry_type": "cash_out",
+    "amount": 500.75,
+    "entry_date": "2026-04-28",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-04-28|50075|"
+  },
+  {
+    "id": "pc_0050",
+    "entry_type": "cash_out",
+    "amount": 677.52,
+    "entry_date": "2026-05-15",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-05-15|67752|"
+  },
+  {
+    "id": "pc_0051",
+    "entry_type": "cash_out",
+    "amount": 67.51,
+    "entry_date": "2026-06-12",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-06-12|6751|"
+  },
+  {
+    "id": "pc_0052",
+    "entry_type": "cash_out",
+    "amount": 25.69,
+    "entry_date": "2026-01-30",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-01-30|2569|"
+  },
+  {
+    "id": "pc_0053",
+    "entry_type": "cash_out",
+    "amount": 340.42,
+    "entry_date": "2026-02-25",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-02-25|34042|"
+  },
+  {
+    "id": "pc_0054",
+    "entry_type": "cash_out",
+    "amount": 15.5,
+    "entry_date": "2026-03-26",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-03-26|1550|"
+  },
+  {
+    "id": "pc_0055",
+    "entry_type": "cash_out",
+    "amount": 84.62,
+    "entry_date": "2026-04-30",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-04-30|8462|"
+  },
+  {
+    "id": "pc_0056",
+    "entry_type": "cash_out",
+    "amount": 162.2,
+    "entry_date": "2026-05-18",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-05-18|16220|"
+  },
+  {
+    "id": "pc_0057",
+    "entry_type": "cash_out",
+    "amount": 54.4,
+    "entry_date": "2026-06-15",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-06-15|5440|"
+  },
+  {
+    "id": "pc_0058",
+    "entry_type": "cash_out",
+    "amount": 15.03,
+    "entry_date": "2026-02-26",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-02-26|1503|"
+  },
+  {
+    "id": "pc_0059",
+    "entry_type": "cash_out",
+    "amount": 22.66,
+    "entry_date": "2026-05-19",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-05-19|2266|"
+  },
+  {
+    "id": "pc_0060",
+    "entry_type": "cash_out",
+    "amount": 129.34,
+    "entry_date": "2026-06-16",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-06-16|12934|"
+  },
+  {
+    "id": "pc_0061",
+    "entry_type": "cash_out",
+    "amount": 630.56,
+    "entry_date": "2026-02-27",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-02-27|63056|"
+  },
+  {
+    "id": "pc_0062",
+    "entry_type": "cash_out",
+    "amount": 508.66,
+    "entry_date": "2026-05-20",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-05-20|50866|"
+  },
+  {
+    "id": "pc_0063",
+    "entry_type": "cash_out",
+    "amount": 24.18,
+    "entry_date": "2026-06-18",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-06-18|2418|"
+  },
+  {
+    "id": "pc_0064",
+    "entry_type": "cash_out",
+    "amount": 20.65,
+    "entry_date": "2026-05-21",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-05-21|2065|"
+  },
+  {
+    "id": "pc_0065",
+    "entry_type": "cash_out",
+    "amount": 48.86,
+    "entry_date": "2026-06-22",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-06-22|4886|"
+  },
+  {
+    "id": "pc_0066",
+    "entry_type": "cash_out",
+    "amount": 22.16,
+    "entry_date": "2026-05-22",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-05-22|2216|"
+  },
+  {
+    "id": "pc_0067",
+    "entry_type": "cash_out",
+    "amount": 75.55,
+    "entry_date": "2026-06-23",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-06-23|7555|"
+  },
+  {
+    "id": "pc_0068",
+    "entry_type": "cash_out",
+    "amount": 54.39,
+    "entry_date": "2026-06-24",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-06-24|5439|"
+  },
+  {
+    "id": "pc_0069",
+    "entry_type": "cash_out",
+    "amount": 97.71,
+    "entry_date": "2026-06-25",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-06-25|9771|"
+  },
+  {
+    "id": "pc_0070",
+    "entry_type": "cash_out",
+    "amount": 95.17,
+    "entry_date": "2026-06-26",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-06-26|9517|"
+  },
+  {
+    "id": "pc_0071",
+    "entry_type": "cash_out",
+    "amount": 142.74,
+    "entry_date": "2026-06-01",
+    "description": "",
+    "created_by": "usr_admin",
+    "created_at": "2026-11-11T10:24:36.522Z",
+    "import_key": "pc|cash_out|2026-06-01|14274|"
+  }
+]

@@ -1,0 +1,92 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: 'Inter Variable', 'Inter', ui-sans-serif, system-ui, -apple-system, sans-serif;
+
+  --color-brand-primary: #2563eb;
+  --color-brand-navy: #1e3a8a;
+  --color-brand-deep: #172554;
+  --color-brand-sky: #38bdf8;
+  --color-brand-light: #dbeafe;
+  --color-brand-tint: #eff6ff;
+  --color-page-bg: #f3f7ff;
+  --color-text-muted: #475569;
+  --color-text-body: #0f172a;
+  --color-card-border: #e0ecff;
+  --color-input-border: #bfdbfe;
+  --color-table-divider: #eaf1ff;
+  --color-danger-text: #b91c1c;
+  --color-danger-border: #fca5a5;
+}
+
+:root {
+  --surface-page: #f3f7ff;
+  --surface-card: #ffffff;
+  --surface-tint: #eff6ff;
+  --surface-hover: #f8fbff;
+  --border-card: #e0ecff;
+  --border-input: #bfdbfe;
+  --border-divider: #eaf1ff;
+  --text-heading: #1e3a8a;
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --shadow-card: 0 4px 20px -2px rgba(30, 58, 138, 0.06), 0 2px 6px -1px rgba(37, 99, 235, 0.04);
+}
+
+.dark {
+  --surface-page: #0b132b;
+  --surface-card: #111d42;
+  --surface-tint: #172554;
+  --surface-hover: #1a2b5e;
+  --border-card: #1e3a8a;
+  --border-input: #2563eb;
+  --border-divider: #1a2e66;
+  --text-heading: #dbeafe;
+  --text-primary: #f1f5f9;
+  --text-secondary: #94a3b8;
+  --shadow-card: 0 6px 24px -4px rgba(2, 6, 23, 0.55);
+}
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    border-color: var(--border-card);
+  }
+
+  html,
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--surface-page);
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+.app-card {
+  background-color: var(--surface-card);
+  border: 1px solid var(--border-card);
+  border-radius: 16px;
+  padding: 22px;
+  box-shadow: var(--shadow-card);
+}
+
+.hero-card {
+  background: linear-gradient(135deg, #2563eb 0%, #1e3a8a 100%);
+  border-radius: 16px;
+  padding: 22px;
+  color: #ffffff;
+  box-shadow: 0 12px 28px -6px rgba(37, 99, 235, 0.35);
+}
+
+.sidebar-gradient {
+  background: linear-gradient(180deg, #1e3a8a 0%, #172554 100%);
+}
+
+.nav-active-glow {
+  background-color: #2563eb;
+  color: #ffffff;
+  box-shadow: 0 4px 14px rgba(37, 99, 235, 0.45);
+}

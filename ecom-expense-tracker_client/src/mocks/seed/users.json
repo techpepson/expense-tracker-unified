@@ -1,0 +1,14 @@
+[
+  {
+    "id": "usr-1",
+    "full_name": "John Doe",
+    "email": "employee@ecom.com",
+    "can_record_shared": true
+  },
+  {
+    "id": "usr-2",
+    "full_name": "Jane Smith",
+    "email": "jane@ecom.com",
+    "can_record_shared": false
+  }
+]

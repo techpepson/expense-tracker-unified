@@ -1,0 +1,464 @@
+[
+  {
+    "id": "item-1",
+    "category_id": "cat-1",
+    "name": "A4 Sheet",
+    "status": "approved"
+  },
+  {
+    "id": "item-2",
+    "category_id": "cat-1",
+    "name": "Printer Ink",
+    "status": "approved"
+  },
+  {
+    "id": "item-3",
+    "category_id": "cat-1",
+    "name": "Official Stamp",
+    "status": "approved"
+  },
+  {
+    "id": "item-4",
+    "category_id": "cat-1",
+    "name": "Stapler",
+    "status": "approved"
+  },
+  {
+    "id": "item-5",
+    "category_id": "cat-1",
+    "name": "Staple Pins",
+    "status": "approved"
+  },
+  {
+    "id": "item-6",
+    "category_id": "cat-1",
+    "name": "Socket extension",
+    "status": "approved"
+  },
+  {
+    "id": "item-7",
+    "category_id": "cat-1",
+    "name": "Brown Envelops",
+    "status": "approved"
+  },
+  {
+    "id": "item-8",
+    "category_id": "cat-1",
+    "name": "Bottled Water",
+    "status": "approved"
+  },
+  {
+    "id": "item-9",
+    "category_id": "cat-1",
+    "name": "Sticky Notes",
+    "status": "approved"
+  },
+  {
+    "id": "item-10",
+    "category_id": "cat-1",
+    "name": "Paper clip",
+    "status": "approved"
+  },
+  {
+    "id": "item-11",
+    "category_id": "cat-1",
+    "name": "Disposable cups",
+    "status": "approved"
+  },
+  {
+    "id": "item-12",
+    "category_id": "cat-1",
+    "name": "Storage Basket",
+    "status": "approved"
+  },
+  {
+    "id": "item-13",
+    "category_id": "cat-1",
+    "name": "Water for Dispenser",
+    "status": "approved"
+  },
+  {
+    "id": "item-14",
+    "category_id": "cat-1",
+    "name": "Tableware set",
+    "status": "approved"
+  },
+  {
+    "id": "item-15",
+    "category_id": "cat-1",
+    "name": "Bag of Water",
+    "status": "approved"
+  },
+  {
+    "id": "item-16",
+    "category_id": "cat-1",
+    "name": "Internet",
+    "status": "approved"
+  },
+  {
+    "id": "item-17",
+    "category_id": "cat-1",
+    "name": "Airtime",
+    "status": "approved"
+  },
+  {
+    "id": "item-18",
+    "category_id": "cat-1",
+    "name": "Electricity",
+    "status": "approved"
+  },
+  {
+    "id": "item-19",
+    "category_id": "cat-1",
+    "name": "Water Bill",
+    "status": "approved"
+  },
+  {
+    "id": "item-20",
+    "category_id": "cat-2",
+    "name": "Disposable Spoon",
+    "status": "approved"
+  },
+  {
+    "id": "item-21",
+    "category_id": "cat-2",
+    "name": "Diposable plates",
+    "status": "approved"
+  },
+  {
+    "id": "item-22",
+    "category_id": "cat-2",
+    "name": "Coffee",
+    "status": "approved"
+  },
+  {
+    "id": "item-23",
+    "category_id": "cat-2",
+    "name": "Cleaning Cloth",
+    "status": "approved"
+  },
+  {
+    "id": "item-24",
+    "category_id": "cat-2",
+    "name": "USB Drive",
+    "status": "approved"
+  },
+  {
+    "id": "item-25",
+    "category_id": "cat-2",
+    "name": "Teabag",
+    "status": "approved"
+  },
+  {
+    "id": "item-26",
+    "category_id": "cat-2",
+    "name": "Sugar",
+    "status": "approved"
+  },
+  {
+    "id": "item-27",
+    "category_id": "cat-2",
+    "name": "Honey",
+    "status": "approved"
+  },
+  {
+    "id": "item-28",
+    "category_id": "cat-2",
+    "name": "Cracker Biscuit",
+    "status": "approved"
+  },
+  {
+    "id": "item-29",
+    "category_id": "cat-2",
+    "name": "Milk",
+    "status": "approved"
+  },
+  {
+    "id": "item-30",
+    "category_id": "cat-2",
+    "name": "Cappuccino",
+    "status": "approved"
+  },
+  {
+    "id": "item-31",
+    "category_id": "cat-2",
+    "name": "Sweetner",
+    "status": "approved"
+  },
+  {
+    "id": "item-32",
+    "category_id": "cat-2",
+    "name": "Snacks for Visitors",
+    "status": "approved"
+  },
+  {
+    "id": "item-33",
+    "category_id": "cat-5",
+    "name": "Garbage bags",
+    "status": "approved"
+  },
+  {
+    "id": "item-34",
+    "category_id": "cat-5",
+    "name": "Gloves",
+    "status": "approved"
+  },
+  {
+    "id": "item-35",
+    "category_id": "cat-5",
+    "name": "Hand  sanitizer",
+    "status": "approved"
+  },
+  {
+    "id": "item-36",
+    "category_id": "cat-5",
+    "name": "Jumbo tissue",
+    "status": "approved"
+  },
+  {
+    "id": "item-37",
+    "category_id": "cat-5",
+    "name": "Dishwashing Liquidsoap",
+    "status": "approved"
+  },
+  {
+    "id": "item-38",
+    "category_id": "cat-5",
+    "name": "Insecticide spray",
+    "status": "approved"
+  },
+  {
+    "id": "item-39",
+    "category_id": "cat-5",
+    "name": "Handwash Liquidsoap",
+    "status": "approved"
+  },
+  {
+    "id": "item-40",
+    "category_id": "cat-5",
+    "name": "Toilet roll",
+    "status": "approved"
+  },
+  {
+    "id": "item-41",
+    "category_id": "cat-5",
+    "name": "Glass Cleaner",
+    "status": "approved"
+  },
+  {
+    "id": "item-42",
+    "category_id": "cat-5",
+    "name": "Bleach",
+    "status": "approved"
+  },
+  {
+    "id": "item-43",
+    "category_id": "cat-5",
+    "name": "Air Freshner",
+    "status": "approved"
+  },
+  {
+    "id": "item-44",
+    "category_id": "cat-5",
+    "name": "WC Power Balls",
+    "status": "approved"
+  },
+  {
+    "id": "item-45",
+    "category_id": "cat-5",
+    "name": "Naphthalene Balls",
+    "status": "approved"
+  },
+  {
+    "id": "item-46",
+    "category_id": "cat-5",
+    "name": "Floor cleaner",
+    "status": "approved"
+  },
+  {
+    "id": "item-47",
+    "category_id": "cat-5",
+    "name": "Water Barrel",
+    "status": "approved"
+  },
+  {
+    "id": "item-48",
+    "category_id": "cat-5",
+    "name": "Funnel",
+    "status": "approved"
+  },
+  {
+    "id": "item-49",
+    "category_id": "cat-5",
+    "name": "Washing Powder",
+    "status": "approved"
+  },
+  {
+    "id": "item-50",
+    "category_id": "cat-5",
+    "name": "Anticeptic",
+    "status": "approved"
+  },
+  {
+    "id": "item-51",
+    "category_id": "cat-5",
+    "name": "Mop",
+    "status": "approved"
+  },
+  {
+    "id": "item-52",
+    "category_id": "cat-5",
+    "name": "Sponge",
+    "status": "approved"
+  },
+  {
+    "id": "item-53",
+    "category_id": "cat-4",
+    "name": "Transport",
+    "status": "approved"
+  },
+  {
+    "id": "item-54",
+    "category_id": "cat-4",
+    "name": "Delivery",
+    "status": "approved"
+  },
+  {
+    "id": "item-55",
+    "category_id": "cat-4",
+    "name": "Plumber",
+    "status": "approved"
+  },
+  {
+    "id": "item-56",
+    "category_id": "cat-4",
+    "name": "Waste collector",
+    "status": "approved"
+  },
+  {
+    "id": "item-57",
+    "category_id": "cat-4",
+    "name": "Office Phone Battery",
+    "status": "approved"
+  },
+  {
+    "id": "item-58",
+    "category_id": "cat-4",
+    "name": "Water transport",
+    "status": "approved"
+  },
+  {
+    "id": "item-59",
+    "category_id": "cat-4",
+    "name": "Service charge",
+    "status": "approved"
+  },
+  {
+    "id": "item-60",
+    "category_id": "cat-4",
+    "name": "Light Rental",
+    "status": "approved"
+  },
+  {
+    "id": "item-61",
+    "category_id": "cat-4",
+    "name": "First Aid",
+    "status": "approved"
+  },
+  {
+    "id": "item-62",
+    "category_id": "cat-4",
+    "name": "Key cutting",
+    "status": "approved"
+  },
+  {
+    "id": "item-63",
+    "category_id": "cat-4",
+    "name": "Domain Renewal",
+    "status": "approved"
+  },
+  {
+    "id": "item-64",
+    "category_id": "cat-4",
+    "name": "Door Lock",
+    "status": "approved"
+  },
+  {
+    "id": "item-65",
+    "category_id": "cat-4",
+    "name": "Toner",
+    "status": "approved"
+  },
+  {
+    "id": "item-66",
+    "category_id": "cat-4",
+    "name": "Operational expense",
+    "status": "approved"
+  },
+  {
+    "id": "item-67",
+    "category_id": "cat-4",
+    "name": "Fuel",
+    "status": "approved"
+  },
+  {
+    "id": "item-68",
+    "category_id": "cat-4",
+    "name": "Deposite/ Withdrawal Charge",
+    "status": "approved"
+  },
+  {
+    "id": "item-69",
+    "category_id": "cat-4",
+    "name": "Gallon",
+    "status": "approved"
+  },
+  {
+    "id": "item-70",
+    "category_id": "cat-4",
+    "name": "Business Card",
+    "status": "approved"
+  },
+  {
+    "id": "item-71",
+    "category_id": "cat-4",
+    "name": "Weldering Service",
+    "status": "approved"
+  },
+  {
+    "id": "item-72",
+    "category_id": "cat-4",
+    "name": "AC Servicing",
+    "status": "approved"
+  },
+  {
+    "id": "item-73",
+    "category_id": "cat-4",
+    "name": "PPA Renewal",
+    "status": "approved"
+  },
+  {
+    "id": "item-74",
+    "category_id": "cat-4",
+    "name": "AMA Bill",
+    "status": "approved"
+  },
+  {
+    "id": "item-75",
+    "category_id": "cat-4",
+    "name": "Cellotape",
+    "status": "approved"
+  },
+  {
+    "id": "item-76",
+    "category_id": "cat-4",
+    "name": "Macbook Charger Cord",
+    "status": "approved"
+  },
+  {
+    "id": "item-77",
+    "category_id": "cat-4",
+    "name": "Phone screem protector",
+    "status": "approved"
+  }
+]

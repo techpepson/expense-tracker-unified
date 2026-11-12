@@ -1,0 +1,704 @@
+[
+  {
+    "id": "itm_1",
+    "category_id": "cat_1",
+    "name": "A4 Sheet",
+    "status": "approved",
+    "usage_count": 0,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_2",
+    "category_id": "cat_1",
+    "name": "Printer Ink",
+    "status": "approved",
+    "usage_count": 0,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_3",
+    "category_id": "cat_1",
+    "name": "Official Stamp",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_4",
+    "category_id": "cat_1",
+    "name": "Stapler",
+    "status": "approved",
+    "usage_count": 0,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_5",
+    "category_id": "cat_1",
+    "name": "Staple Pins",
+    "status": "approved",
+    "usage_count": 0,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_6",
+    "category_id": "cat_1",
+    "name": "Socket extension",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_7",
+    "category_id": "cat_1",
+    "name": "Brown Envelops",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_8",
+    "category_id": "cat_1",
+    "name": "Bottled Water",
+    "status": "approved",
+    "usage_count": 3,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_9",
+    "category_id": "cat_1",
+    "name": "Sticky Notes",
+    "status": "approved",
+    "usage_count": 2,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_10",
+    "category_id": "cat_1",
+    "name": "Paper clip",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_11",
+    "category_id": "cat_1",
+    "name": "Disposable cups",
+    "status": "approved",
+    "usage_count": 3,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_12",
+    "category_id": "cat_1",
+    "name": "Storage Basket",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_13",
+    "category_id": "cat_1",
+    "name": "Water for Dispenser",
+    "status": "approved",
+    "usage_count": 7,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_14",
+    "category_id": "cat_1",
+    "name": "Tableware set",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_15",
+    "category_id": "cat_1",
+    "name": "Bag of Water",
+    "status": "approved",
+    "usage_count": 4,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_16",
+    "category_id": "cat_1",
+    "name": "Internet",
+    "status": "approved",
+    "usage_count": 12,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_17",
+    "category_id": "cat_1",
+    "name": "Airtime",
+    "status": "approved",
+    "usage_count": 9,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_18",
+    "category_id": "cat_1",
+    "name": "Electricity",
+    "status": "approved",
+    "usage_count": 9,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_19",
+    "category_id": "cat_1",
+    "name": "Water Bill",
+    "status": "approved",
+    "usage_count": 7,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_20",
+    "category_id": "cat_2",
+    "name": "Disposable Spoon",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_21",
+    "category_id": "cat_2",
+    "name": "Diposable plates",
+    "status": "approved",
+    "usage_count": 0,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_22",
+    "category_id": "cat_2",
+    "name": "Coffee",
+    "status": "approved",
+    "usage_count": 3,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_23",
+    "category_id": "cat_2",
+    "name": "Cleaning Cloth",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_24",
+    "category_id": "cat_2",
+    "name": "USB Drive",
+    "status": "approved",
+    "usage_count": 2,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_25",
+    "category_id": "cat_2",
+    "name": "Teabag",
+    "status": "approved",
+    "usage_count": 2,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_26",
+    "category_id": "cat_2",
+    "name": "Sugar",
+    "status": "approved",
+    "usage_count": 2,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_27",
+    "category_id": "cat_2",
+    "name": "Honey",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_28",
+    "category_id": "cat_2",
+    "name": "Cracker Biscuit",
+    "status": "approved",
+    "usage_count": 2,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_29",
+    "category_id": "cat_2",
+    "name": "Milk",
+    "status": "approved",
+    "usage_count": 3,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_30",
+    "category_id": "cat_2",
+    "name": "Cappuccino",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_31",
+    "category_id": "cat_2",
+    "name": "Sweetner",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_32",
+    "category_id": "cat_2",
+    "name": "Snacks for Visitors",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_33",
+    "category_id": "cat_3",
+    "name": "Garbage bags",
+    "status": "approved",
+    "usage_count": 4,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_34",
+    "category_id": "cat_3",
+    "name": "Gloves",
+    "status": "approved",
+    "usage_count": 3,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_35",
+    "category_id": "cat_3",
+    "name": "Hand sanitizer",
+    "status": "approved",
+    "usage_count": 3,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_36",
+    "category_id": "cat_3",
+    "name": "Jumbo tissue",
+    "status": "approved",
+    "usage_count": 4,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_37",
+    "category_id": "cat_3",
+    "name": "Dishwashing Liquidsoap",
+    "status": "approved",
+    "usage_count": 4,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_38",
+    "category_id": "cat_3",
+    "name": "Insecticide spray",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_39",
+    "category_id": "cat_3",
+    "name": "Handwash Liquidsoap",
+    "status": "approved",
+    "usage_count": 4,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_40",
+    "category_id": "cat_3",
+    "name": "Toilet roll",
+    "status": "approved",
+    "usage_count": 5,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_41",
+    "category_id": "cat_3",
+    "name": "Glass Cleaner",
+    "status": "approved",
+    "usage_count": 4,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_42",
+    "category_id": "cat_3",
+    "name": "Bleach",
+    "status": "approved",
+    "usage_count": 4,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_43",
+    "category_id": "cat_3",
+    "name": "Air Freshner",
+    "status": "approved",
+    "usage_count": 4,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_44",
+    "category_id": "cat_3",
+    "name": "WC Power Balls",
+    "status": "approved",
+    "usage_count": 4,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_45",
+    "category_id": "cat_3",
+    "name": "Naphthalene Balls",
+    "status": "approved",
+    "usage_count": 2,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_46",
+    "category_id": "cat_3",
+    "name": "Floor cleaner",
+    "status": "approved",
+    "usage_count": 4,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_47",
+    "category_id": "cat_3",
+    "name": "Water Barrel",
+    "status": "approved",
+    "usage_count": 0,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_48",
+    "category_id": "cat_3",
+    "name": "Funnel",
+    "status": "approved",
+    "usage_count": 0,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_49",
+    "category_id": "cat_3",
+    "name": "Washing Powder",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_50",
+    "category_id": "cat_3",
+    "name": "Anticeptic",
+    "status": "approved",
+    "usage_count": 4,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_51",
+    "category_id": "cat_3",
+    "name": "Mop",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_52",
+    "category_id": "cat_3",
+    "name": "Sponge",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_53",
+    "category_id": "cat_4",
+    "name": "Transport",
+    "status": "approved",
+    "usage_count": 68,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_54",
+    "category_id": "cat_4",
+    "name": "Delivery",
+    "status": "approved",
+    "usage_count": 25,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_55",
+    "category_id": "cat_4",
+    "name": "Plumber",
+    "status": "approved",
+    "usage_count": 10,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_56",
+    "category_id": "cat_4",
+    "name": "Waste collector",
+    "status": "approved",
+    "usage_count": 18,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_57",
+    "category_id": "cat_4",
+    "name": "Office Phone Battery",
+    "status": "approved",
+    "usage_count": 0,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_58",
+    "category_id": "cat_4",
+    "name": "Water transport",
+    "status": "approved",
+    "usage_count": 0,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_59",
+    "category_id": "cat_4",
+    "name": "Service charge",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_60",
+    "category_id": "cat_4",
+    "name": "Light Rental",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_61",
+    "category_id": "cat_4",
+    "name": "First Aid",
+    "status": "approved",
+    "usage_count": 2,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_62",
+    "category_id": "cat_4",
+    "name": "Key cutting",
+    "status": "approved",
+    "usage_count": 2,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_63",
+    "category_id": "cat_4",
+    "name": "Domain Renewal",
+    "status": "approved",
+    "usage_count": 2,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_64",
+    "category_id": "cat_4",
+    "name": "Door Lock",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_65",
+    "category_id": "cat_4",
+    "name": "Toner",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_66",
+    "category_id": "cat_4",
+    "name": "Operational expense",
+    "status": "approved",
+    "usage_count": 5,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_67",
+    "category_id": "cat_4",
+    "name": "Fuel",
+    "status": "approved",
+    "usage_count": 0,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_68",
+    "category_id": "cat_4",
+    "name": "Deposite/ Withdrawal Charge",
+    "status": "approved",
+    "usage_count": 4,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_69",
+    "category_id": "cat_4",
+    "name": "Gallon",
+    "status": "approved",
+    "usage_count": 2,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_70",
+    "category_id": "cat_4",
+    "name": "Funnel",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_71",
+    "category_id": "cat_4",
+    "name": "Business Card",
+    "status": "approved",
+    "usage_count": 2,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_72",
+    "category_id": "cat_4",
+    "name": "Weldering Service",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_73",
+    "category_id": "cat_4",
+    "name": "AC Servicing",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_74",
+    "category_id": "cat_4",
+    "name": "PPA Renewal",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_75",
+    "category_id": "cat_4",
+    "name": "AMA Bill",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_76",
+    "category_id": "cat_4",
+    "name": "Cellotape",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_77",
+    "category_id": "cat_4",
+    "name": "Macbook Charger Cord",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  },
+  {
+    "id": "itm_78",
+    "category_id": "cat_4",
+    "name": "Phone screem protector",
+    "status": "approved",
+    "usage_count": 1,
+    "suggested_by": null,
+    "created_at": "2026-11-11T10:24:36.522Z"
+  }
+]

@@ -1,0 +1,1 @@
+{"root":["./vite.config.ts","./scripts/import-xlsx.ts","./scripts/inspect-xlsx.ts"],"version":"6.0.3"}

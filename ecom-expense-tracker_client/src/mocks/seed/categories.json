@@ -1,0 +1,27 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Office Supplies",
+    "is_active": true
+  },
+  {
+    "id": "cat-2",
+    "name": "Kitchen Supplies",
+    "is_active": true
+  },
+  {
+    "id": "cat-3",
+    "name": "Cleaning & Hygiene Supplies",
+    "is_active": true
+  },
+  {
+    "id": "cat-4",
+    "name": "Other",
+    "is_active": true
+  },
+  {
+    "id": "cat-5",
+    "name": "Cleaning & Hygine supplies",
+    "is_active": true
+  }
+]
